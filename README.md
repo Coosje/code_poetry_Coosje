@@ -1,0 +1,11 @@
+# code_poetry_Coosje
+exercise workshop git
+
+
+
+    Turning and turning in the widening gyre
+
+    The falcon cannot hear the falconer;
+
+    Things fall apart; the centre cannot hold;
+
